@@ -1,5 +1,5 @@
 # Konveyor
-Konveyor is a library for generation Data classes with random values
+Konveyor is a library for generating Data classes with random values.
 
 [![CircleCI](https://circleci.com/gh/vacxe/Konveyor.svg?style=svg)](https://circleci.com/gh/vacxe/Konveyor)
 [![Download](https://api.bintray.com/packages/vacxe2/maven/Konveyor/images/download.svg) ](https://bintray.com/vacxe2/maven/Konveyor/_latestVersion)
